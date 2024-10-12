@@ -3,22 +3,9 @@
     "tailwindcss": "^3.4.1"
   },
   "dependencies": {
-    "body-parser": "^1.20.2",
-    "chromedriver": "^129.0.1",
     "cors": "^2.8.5",
-    "debug": "^4.3.4",
-    "dotenv": "^16.4.5",
-    "errno": "^1.0.0",
     "express": "^4.21.0",
-    "go": "^3.0.1",
     "mongodb": "^6.5.0",
-    "mongoose": "^8.3.2",
-    "mssql": "^11.0.1",
-    "mysql": "^2.18.1",
-    "pg": "^8.11.5",
-    "py": "^0.0.0",
-    "selenium-webdriver": "^4.25.0",
-    "swiper": "^11.1.14",
-    "twilio": "^5.0.4"
+    "mongoose": "^8.3.2"
   }
 }
